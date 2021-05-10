@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    //Netflix
+    <color name="colorVermelho">#D61E21</color>
+    <color name="colorVermelhoVinho">#780000</color>
+    <color name="colorVermelhoClaro">#ff4f4f</color>
+    <color name="fundo_tela_assistir">#393939</color>
+</resources>

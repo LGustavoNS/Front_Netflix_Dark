@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Netflix - Teste</string>
+    <string name="menu_mensagem">Menu de Mensagem</string>
+    <string name="menu_volume">Aumentar ou Diminuir, o Volume</string>
+    <string name="menu_avaliacao">Avaliações da Série</string>
+    <string name="menu_de_episodios">Menu de Episódios</string>
+    <string name="voltar">Voltar</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="duracao_inicio">00:00</string>
+    <string name="duracao_final">51:00</string>
+</resources>
